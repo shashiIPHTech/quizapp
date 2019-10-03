@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>AE7A4D3A-9A11-4D3D-9BAC-D114F52A266B</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AE7A4D3A-9A11-4D3D-9BAC-D114F52A266B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>QuizApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>QuizApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace QuizApp with scheme QuizApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>591791483.181988</real>
+			<key>timeStoppedRecording</key>
+			<real>591791493.15098298</real>
+			<key>title</key>
+			<string>Building workspace QuizApp with scheme QuizApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>AE7A4D3A-9A11-4D3D-9BAC-D114F52A266B</string>
+		</dict>
+		<key>D2AD05DD-A27C-4FFA-94B1-09FC5498E016</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D2AD05DD-A27C-4FFA-94B1-09FC5498E016.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>QuizApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>QuizApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace QuizApp with scheme QuizApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>591791433.38507903</real>
+			<key>timeStoppedRecording</key>
+			<real>591791436.78475595</real>
+			<key>title</key>
+			<string>Building workspace QuizApp with scheme QuizApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>D2AD05DD-A27C-4FFA-94B1-09FC5498E016</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
